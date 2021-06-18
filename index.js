@@ -25,6 +25,6 @@ const fetchJoke = async () => {
       console.log(data);
     });
   });
-
-  console.log();
 };
+
+fetchJoke();
